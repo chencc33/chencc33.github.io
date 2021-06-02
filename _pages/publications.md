@@ -17,8 +17,8 @@ author_profile: true
 [1] **Chen, C**., & Tian, Y. (Forthcoming). L2 Learning and Teaching of the Aspect Marker le in Chinese: A Corpus­-informed Approach. *Proceedings of the 11th International Conference and Workshops on Technology and Chinese Language Teaching*. 
 
 
-**Manuscripts in preparation**\ 
-[1] **Chen, C**., Liu, F. Construction Learning: A case study of constructions that contain *gei*. 
+**Manuscripts in preparation**<br /> 
+[1] **Chen, C**., Liu, F. Construction Learning: A case study of constructions that contain *gei*.<br /> 
 [2] **Chen, C**., Diao, W. Cuteness = Gayness?: The cute speech style and the emasculated male body in China. Chinese Language and Discourse 
 
 
