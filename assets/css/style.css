@@ -726,6 +726,9 @@ service section css
     font-size: 1rem;
 }
 
+.award-title {
+    height: 200px;
+}
 
 /*=======================================================================
                         Work sectin style
@@ -952,6 +955,12 @@ service section css
     display: inline-block;
     width: 100%;
     margin-top: 65px;
+}
+
+.contact_contant {
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
 }
 
 .single_message_right_info li {

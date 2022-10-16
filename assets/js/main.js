@@ -36,7 +36,7 @@ jQuery(document).ready(function ($) {
 
 
     /*---------------------------------------------*
-     * Counter 
+     * Counter
      ---------------------------------------------*/
 
     $('.statistic-counter').counterUp({
@@ -110,7 +110,7 @@ jQuery(document).ready(function ($) {
     });
 
 
-// main-menu-scroll
+    // main-menu-scroll
 
     jQuery(window).scroll(function () {
         var top = jQuery(document).scrollTop();
@@ -124,7 +124,7 @@ jQuery(document).ready(function ($) {
         }
     });
 
-// scroll Up
+    // scroll Up
 
     $(window).scroll(function () {
         if ($(this).scrollTop() > 600) {
@@ -135,29 +135,22 @@ jQuery(document).ready(function ($) {
     });
 
     $('.scrollup').click(function () {
-        $("html, body").animate({scrollTop: 0}, 1000);
+        $("html, body").animate({ scrollTop: 0 }, 1000);
         return false;
     });
 
 
 
-//    $('#menu').slicknav();
+    //    $('#menu').slicknav();
 
-//    $('#mixcontent').mixItUp({
-//        animation: {
-//            animateResizeContainer: false,
-//            effects: 'fade rotateX(-45deg) translateY(-10%)'
-//        }
-//    });
+    //    $('#mixcontent').mixItUp({
+    //        animation: {
+    //            animateResizeContainer: false,
+    //            effects: 'fade rotateX(-45deg) translateY(-10%)'
+    //        }
+    //    });
 
 
 
     //End
 });
-
-
-
-
-
-
-
