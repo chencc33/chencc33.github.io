@@ -1323,3 +1323,11 @@ ul li.filter {
     width: 100%;
     height: 700px;
 }
+
+.download-resume {
+    color: whitesmoke;
+}
+
+.download-resume-contact {
+    color: rgb(101, 101, 101);
+}
